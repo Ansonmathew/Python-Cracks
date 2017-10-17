@@ -7,6 +7,12 @@
     pyttsx
     
   For deep resarch refer https://pypi.python.org/pypi/pyttsx
+ 
+2. Face recognition using OpenCV
+   Simple face recognition code using OpencV
+   
+   Reference https://opencv.org
+  
   
 
   
